@@ -1,0 +1,1 @@
+<img src="{{ asset('images/center_logo.jpg') }}" alt="application logo" width="40px" />
